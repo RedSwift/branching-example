@@ -1,4 +1,4 @@
-# Stupidier title
+# zz title
 
 This is a readme file.
 
